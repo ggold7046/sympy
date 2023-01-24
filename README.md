@@ -22,7 +22,7 @@ files in the sympy repository unless stated otherwise.
 Our mailing list is at
 <https://groups.google.com/forum/?fromgroups#!forum/sympy>.
 
-We have a community chat at [Gitter](https://gitter.im/sympy/sympy). Feel
+We have a community chat on [Gitter](https://gitter.im/sympy/sympy). Feel
 free to ask us anything there. We have a very welcoming and helpful
 community.
 
