@@ -16,7 +16,7 @@ See the [AUTHORS](AUTHORS) file for the list of authors.
 
 Many more people contributed to the SymPy mailing list, reported bugs, assisted in organising SymPy's participation in the Google Summer of Code, the Google Highly Open Participation Contest, Google Code-In, wrote and blogged about SymPy, and so on.
 
-License: New BSD License (see the [LICENSE](LICENSE) file for details) covers all
+License: The new BSD License (see the [LICENSE](LICENSE) file for details) covers all
 files in the sympy repository unless stated otherwise.
 
 Our mailing list is at
